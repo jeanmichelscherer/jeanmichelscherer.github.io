@@ -58,7 +58,9 @@
       <!-- <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p> -->
       <p><a href=" {{ post.paperurl }} "><u>Dowload here</u></a></p>
     {% elsif post.citation %}
-      <p>Recommended citation: {{ post.citation }} </p>
+      <!-- <p>Recommended citation: {{ post.citation }} </p> -->
+      <p>{{ post.citation }} </p>
+      <p><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.paperurl %}
     <!--  <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p> -->
     {% endif %}
