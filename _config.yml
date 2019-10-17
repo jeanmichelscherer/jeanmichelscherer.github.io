@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "jean-michel scherer" #"Your Sidebar Name"
-  avatar           : "profil.jpg" #"profile.png"
+  avatar           : "profil.png" #"profile.png"
   bio              : "PhD candidate, CEA,<br>Mines ParisTech" #"Your biography for the left-hand sidebar"
   location         : "Paris, France" #"Location"
   employer         :
