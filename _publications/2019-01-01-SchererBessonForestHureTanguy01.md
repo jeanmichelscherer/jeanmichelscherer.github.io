@@ -6,6 +6,7 @@ excerpt: 'A micromorphic crystal plasticity model is used to simulate slip band 
 date: 2019-01-01
 venue: 'European Journal of Mechanics-A/Solids'
 paperurl: 'https://hal.archives-ouvertes.fr/hal-02266597/document'
+citation: 'Scherer, J. M., Besson, J., Forest, S., Hure, J., &amp; Tanguy, B. (2019)'
 ---
 
 <a href='https://hal.archives-ouvertes.fr/hal-02266597/document'>Download here</a>
