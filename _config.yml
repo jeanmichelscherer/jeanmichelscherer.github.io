@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "jean-michel scherer" #"Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "PhD candidate, CEA, Mines Paristech" #"Your biography for the left-hand sidebar"
-  location         : "Paris, FRANCE" #"Location"
+  bio              : "PhD candidate, CEA,<br>Mines ParisTech" #"Your biography for the left-hand sidebar"
+  location         : "Paris, France" #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
