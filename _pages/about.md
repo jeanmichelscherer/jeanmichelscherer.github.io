@@ -17,4 +17,4 @@ Email
 ------
 You can reach me at the following email adress
 <br>
-[jm.scherer@outlook.com](jm.scherer@outlook.com)
+<a href="mailto:jm.scherer@outlook.com">jm.scherer@outlook.com</a>
