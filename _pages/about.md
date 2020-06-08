@@ -8,3 +8,13 @@ redirect_from:
   - /about.html
 ---
 
+About
+======
+I am currently a doctoral candidate at French Atomic Energy and Alternative Energies Commission and at Ecole des Mines de Paris. 
+My current research focuses on non-local plasticity and ductile failure in metallic single crystals.
+
+Email
+------
+You can reach me at the following email adress
+<br>
+[jm.scherer@outlook.com](jm.scherer@outlook.com)
