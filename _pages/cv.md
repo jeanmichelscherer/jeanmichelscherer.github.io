@@ -71,10 +71,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-<<<<<<< HEAD
 <!--
-=======
->>>>>>> 5e3ac45d57a0518b7a93bf7614775c2d1d869a77
 Teaching
 ======
   <ul>{% for post in site.teaching %}
@@ -83,9 +80,5 @@ Teaching
   
 Service and leadership
 ======
-<<<<<<< HEAD
  * Currently signed in to 43 different slack teams
 -->
-=======
-* Currently signed in to 43 different slack teams
->>>>>>> 5e3ac45d57a0518b7a93bf7614775c2d1d869a77
