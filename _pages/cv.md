@@ -49,7 +49,7 @@ Skills
   * Numerical simulations with the finite element solver Z-set
 * Experimental mechanics
   * Scanning electron microscope in situ micro-tensile test
-  * Scanning electron microscopy for electron backscattered diffrection and fractography analyses
+  * Scanning electron microscopy for electron backscattered diffraction and fractography analyses
   * Small-scale digital image correlation instrumentation and analyses 
 * IT
   * C++, Python, Matlab, and LaTeX programming 
