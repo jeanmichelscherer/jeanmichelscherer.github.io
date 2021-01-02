@@ -10,7 +10,7 @@ redirect_from:
 
 About
 ======
-I am currently a postdoc at Laboratoire Navier from Ecole des Ponts et Chaussées and at Laboratoire de Mécanique des Solides from Ecole Polytechnique. My current research focuses on multiphase-field modelling of anisotropic brittle fracture.
+I am currently a postdoctoral researcher at Laboratoire Navier from Ecole des Ponts et Chaussées and at Laboratoire de Mécanique des Solides from Ecole Polytechnique. My current research focuses on multiphase-field modelling of anisotropic brittle fracture.
 
 Email
 ------
