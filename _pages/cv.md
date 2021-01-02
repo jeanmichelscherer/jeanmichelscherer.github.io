@@ -11,14 +11,22 @@ redirect_from:
 
 Education
 ======
-* B.S. Mines Nancy, 2015
-* M.S. Mines Nancy, 2017
+* Ph.D Mines Paris, 2020
 * M.Res. Arts et Métiers Paris, ENS Cachan, Ecole Polytechnique, 2017 
-* Ph.D Mines Paris, 2020 (expected)
+* M.S. Mines Nancy, 2017
+* B.S. Mines Nancy, 2015
 
 Work experience
 ======
-* 2017 - 2019: Adjunct Assistant Professor
+* 2021: Postdoctoral researcher
+  * Laboratoire Navier and Laboratoire de Mécanique des Solides
+  * Duties included: Multiphase-field modeling of anisotropic brittle fracture in additively-manufactured polycrystals
+  * Supervisor: Stella Brach, Jérémy Bleyer
+* 2017 - 2020: PhD Candidate
+  * French Alternative Energies and Atomic Energy Commision, Saclay
+  * Dissertation title: Strain localization and ductile fracture in single crystals: application to irradiated austenitic stainless steels
+  * Supervisor: Jérémy Hure, Benoît Tanguy, Jacques Besson, Samuel Forest
+* 2017 - 2019: Lecturer
   * Sorbonne University, Mines Paris 
   * Duties included: tutorial classes in solid mechanics for undergraduate and graduate students. Mentoring of international students for computational mechanics projects. 
 
