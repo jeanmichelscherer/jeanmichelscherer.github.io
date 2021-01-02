@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jean-Michel Scherer" #"Your Sidebar Name"
   avatar           : "3.png" #"profil.png" #"profile.png"
-  bio              : "Postdoc<br>Laboratoire Navier<br>Laboratoire de Mécanique des Solides" #"Your biography for the left-hand sidebar"
+  bio              : "Postdoctoral researcher<br>Laboratoire Navier<br>Laboratoire de Mécanique des Solides" #"Your biography for the left-hand sidebar"
   location         : "Paris, France" #"Location"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
