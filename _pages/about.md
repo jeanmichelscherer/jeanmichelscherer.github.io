@@ -10,8 +10,7 @@ redirect_from:
 
 About
 ======
-I am currently a doctoral candidate at French Atomic Energy and Alternative Energies Commission and at Ecole des Mines de Paris. 
-My current research focuses on non-local plasticity and ductile failure in metallic single crystals.
+I am currently a postdoc at Laboratoire Navier from Ecole des Ponts et Chaussées and at Laboratoire de Mécanique des Solides from Ecole Polytechnique. My current research focuses on multiphase-field modelling of anisotropic brittle fracture.
 
 Email
 ------
