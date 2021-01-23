@@ -20,7 +20,7 @@ Work experience
 ======
 * 2021: Postdoctoral researcher
   * Laboratoire Navier and Laboratoire de Mécanique des Solides
-  * Duties included: Multiphase-field modeling of anisotropic brittle fracture in additively-manufactured polycrystals
+  * Multiphase-field modeling of anisotropic brittle fracture in additively-manufactured polycrystals
   * Supervisor: Stella Brach, Jérémy Bleyer
 * 2017 - 2020: PhD Candidate
   * French Alternative Energies and Atomic Energy Commision, Saclay
@@ -28,21 +28,21 @@ Work experience
   * Supervisor: Jérémy Hure, Benoît Tanguy, Jacques Besson, Samuel Forest
 * 2017 - 2019: Lecturer
   * Sorbonne University, Mines Paris 
-  * Duties included: tutorial classes in solid mechanics for undergraduate and graduate students. Mentoring of international students for computational mechanics projects. 
+  * Tutorial classes in solid mechanics for undergraduate and graduate students. Mentoring of international students for computational mechanics projects. 
 
 * 2016 - 2017: Research Associate
   * French Alternative Energies and Atomic Energy Commision, Saclay
-  * Duties included: implementation and validation of homogenized models for growth and coalescence of nanovoids in metals 
+  * Implementation and validation of homogenized models for growth and coalescence of nanovoids in metals 
   * Supervisor: Jérémy Hure
   
 * 2015 - 2016: Research Associate 
   * Laboratory of Energetics and Theoretical and Applied Mechanics, Vandoeuvre-lès-Nancy
-  * Duties included: modeling of visco-elastic biomaterials
+  * Modeling of visco-elastic biomaterials
   * Supervisor: Rachid Rahouadj 
 
 * 2015: Intern
   * Alstom Transport, Salzgitter
-  * Duties included: Precision measurements for tool maintenance
+  * Precision measurements for tool maintenance
 
 Skills
 ======
