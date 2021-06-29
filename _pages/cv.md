@@ -40,9 +40,11 @@ Work experience
   * Modeling of visco-elastic biomaterials
   * Supervisor: Rachid Rahouadj 
 
+<!--
 * 2015: Intern
   * Alstom Transport, Salzgitter
   * Precision measurements for tool maintenance
+-->
 
 Skills
 ======
@@ -54,7 +56,8 @@ Skills
 * Computational mechanics 
   * Finite Element Method 
   * Implicit implementation of material behaviours in Z-set and Mfront 
-  * Numerical simulations with the finite element solver Z-set
+  * Numerical simulations with the finite element solvers Z-set and FEniCS
+  * Mesh generation with Neper, GMSH, MTEX2GMSH and SALOME
 * Experimental mechanics
   * Scanning electron microscope in situ micro-tensile test
   * Scanning electron microscopy for electron backscattered diffraction and fractography analyses

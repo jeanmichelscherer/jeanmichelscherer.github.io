@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-05-02-PhalkeKaiserSchererForest01
 excerpt: 'The size-dependent response of metallic microwires under monotonic and cyclic torsion is modeled using a reduced-order strain gradient crystal plasticity model involving a single scalar micromorphic variable. It is compared with the response predicted by the CurlF p model proposed in Kaiser and Menzel (2019a), which is based on the full dislocation density tensor ...'
 date: 2021-06-05
-venue: 'Submitted, 2021'
+venue: 'Submitted'
 paperurl: ''
 citation: 'Phalke, V., Kaiser, T., Scherer, J. M., Forest, S.'
 ---
